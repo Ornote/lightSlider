@@ -1,3 +1,4 @@
+// Cyma Slide Control 2015—03—28
 !function($, window){
 "use strict";
 
