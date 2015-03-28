@@ -1,6 +1,6 @@
 ( function( $ ) {
-	Drupal.behaviors.SimpleSlideTouch = {
-    	attach: function (context, settings) {
+	Drupal.behaviors.lightSliderTouch = {
+    		attach: function (context, settings) {
 
 			$( document ).ready( function() {
 
