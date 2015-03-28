@@ -1,4 +1,4 @@
 # lightSlider
 Ultra light slide controller
 
-Lightweight quick slide
+Comming soon on drupal ;)
