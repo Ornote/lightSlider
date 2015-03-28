@@ -1,7 +1,7 @@
 !function($, window){
 "use strict";
 
-  Drupal.behaviors.SimpleSlide = {
+  Drupal.behaviors.lightSlider = {
     attach: function (context, settings) {
 
 		var lightSliderFactory = function(opt){
